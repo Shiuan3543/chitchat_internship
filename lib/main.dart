@@ -1,4 +1,6 @@
-import 'package:chitchat_internship/home_page.dart';
+import 'package:chitchat_internship/ans_1.dart';
+import 'package:chitchat_internship/ans_2/home_page.dart';
+import 'package:chitchat_internship/final_ans.dart';
 import 'package:flutter/material.dart';
 
 void main() {
